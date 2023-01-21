@@ -1,0 +1,32 @@
+Available Features:
+
+	Admin panel
+	Employee panel
+	Special user panel
+	Manage user groups
+	User management system
+	Account settings
+	Arrange categories
+	Product management system
+	Upload csv files
+	Upload media files
+	Sales management system
+	Generate monthly, weekly, and daily purchase reports
+	Generate monthly, weekly, and daily sales reports
+	Top latest sale items
+	Highest selling products
+	
+
+Instructions: How to Run?
+
+	After you finish downloading the project, unzip the project file and head over to your XAMPP directory.
+	There you’ll find a folder naming “htdocs”.
+	Inside the “htdocs” folder, paste the project folder (not the .zip one, but the extracted one).
+	Open your favorite browser; we recommend using Google Chrome or Mozilla Firefox.
+	Then, go to URL “http://localhost/phpmyadmin“.
+	Create a Database with a name that is provided inside the “SetupDocument.txt”.
+	Click on the “Import” tab and choose the database file (.sql) which is provided under the folder naming “DATABASE FILE”.
+	After setting up all these, go to URL “http://localhost/[ ENTER_PROJECT_FOLDER_NAME_HERE ]“
+	All the login details are provided here: 
+						Username: admin
+						Password: admin
